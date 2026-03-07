@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1WodTMyYSmtfB4AvYMa1fYW-Pe8VDW_km" alt="Header Banner" width="100%">
-</p>
+<img width="100%" align="center" alt="Github Image" src="./Header.png" />
 
 <h1 align="center">
 Hi 👋, I'm Anupam Pal 
