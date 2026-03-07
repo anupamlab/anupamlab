@@ -19,6 +19,15 @@ Turning Data into Insights • Insights into Decisions • Decisions into Impact
 - 💬 Ask me about **Data Analysis, Dashboards, Business Intelligence**
 - ⚡ Fun Fact: **I enjoy transforming messy data into meaningful insights**
 
+## 🎓 Education
+
+🎓 **Master of Business Administration (MBA)**  
+Specialization in Marketing & Finance  
+Focus: Business Strategy, Marketing Analysis, Financial Analytics  
+
+🎓 **Bachelor of Technology (B.Tech)**  
+Mechanical Engineering
+
 ---
 
 ## 🌐 Connect With Me
