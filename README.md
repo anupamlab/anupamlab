@@ -2,6 +2,10 @@
   <img src="https://drive.google.com/uc?export=view&id=1WodTMyYSmtfB4AvYMa1fYW-Pe8VDW_km" alt="Header Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupamlab&style=flat-square&color=blue" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anupam Pal</h1>
 
 <h3 align="center">
@@ -46,6 +50,9 @@ Mechanical Engineering
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="mailto:infoanupampal@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
