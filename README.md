@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1WodTMyYSmtfB4AvYMa1fYW-Pe8VDW_km" alt="Header Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Anupam Pal</h1>
 
 <h3 align="center">
