@@ -6,7 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=anupamlab&style=flat-square&color=blue" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Anupam Pal</h1>
+<h1 align="center">
+Hi 👋, I'm Anupam Pal 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="28" />
+</h1>
 
 <h3 align="center">
 Data Analyst | Business Analyst | Data & AI Enthusiast
