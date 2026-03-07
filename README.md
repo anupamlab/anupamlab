@@ -76,6 +76,5 @@ Explore all projects here 👇
 # 💡 Philosophy
 
 > *"Without data you're just another person with an opinion."*  
-> — W. Edwards Deming
 
 ---
