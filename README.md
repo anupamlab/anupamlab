@@ -2,10 +2,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1WodTMyYSmtfB4AvYMa1fYW-Pe8VDW_km" alt="Header Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anupamlab&style=flat-square&color=blue" />
-</p>
-
 <h1 align="center">
 Hi 👋, I'm Anupam Pal 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="28" />
@@ -115,3 +111,10 @@ Explore all projects here 👇
 > *"Without data you're just another person with an opinion."*  
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupamlab&style=flat-square&color=blue" />
+</p>
+
+<h4 align="center">
+Thank you for visiting my profile. Feel free to contact 📞 +91-9774515609
+</h4>
