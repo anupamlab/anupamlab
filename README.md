@@ -13,6 +13,11 @@ Data Analyst | Business Analyst | Data & AI Enthusiast
 Turning Data into Insights • Insights into Decisions • Decisions into Impact
 </p>
 
+<p align="center">
+<a href="https://github.com/anupamlab" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+</p>
 ---
 
 ## 🚀 About Me
@@ -38,10 +43,6 @@ Mechanical Engineering
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://github.com/anupamlab" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
 
 <a href="https://linkedin.com/in/palanupam" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
