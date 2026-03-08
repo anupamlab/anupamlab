@@ -4,15 +4,12 @@
 Hi 👋, I'm Anupam Pal 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="28" />
 </h1>
-
 <h3 align="center">
 Data Analyst | Business Analyst | Data & AI Enthusiast
 </h3>
-
 <p align="center">
 Turning Data into Insights • Insights into Decisions • Decisions into Impact
 </p>
-
 <p align="center">
 <a href="https://github.com/anupamlab" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
