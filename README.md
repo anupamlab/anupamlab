@@ -93,11 +93,11 @@ Mechanical Engineering
 
 # 📂 Featured Work
 
-🔹 Data Analytics Projects  
-🔹 SQL Data Analysis  
-🔹 Power BI Business Dashboards  
-🔹 AI & Data Experiments  
-🔹 Branding & Visual Design 
+     📁 Python Projects 
+     📁 SQL & Data Analysis 
+     📁 Power BI Business Dashboards 
+     📁 AI & Data Experiments 
+     📁 Branding & Visual Design 
 
 <p align="center">
 Explore all projects here 👇  
