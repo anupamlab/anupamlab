@@ -93,19 +93,21 @@ Mechanical Engineering
 
 # 📂 Featured Work
 
-     📁 Python Projects 
-     📁 SQL & Data Analysis 
-     📁 Power BI Business Dashboards 
-     📁 AI & Data Experiments 
-     📁 Branding & Visual Design 
-
 <p align="center">
+📁 Python Projects 
+📁 SQL & Data Analysis 
+📁 Power BI Dashboards 
+📁 AI / ML Experiments 
+📁 Branding & Visual Design 
+</p>
+
+<h4 align="center">
 Explore all projects here 👇  
 <br><br>
 <a href="https://drive.google.com/drive/folders/1zZBthFgN6hmUgMDGGu_eNVSEuiWyq_Ak" target="_blank">
 <img src="https://img.shields.io/badge/Project%20Portfolio-View%20Projects-blue?style=for-the-badge&logo=google-drive">
 </a>
-</p>
+</h4>
 
 ---
 
