@@ -1,4 +1,4 @@
-<img width="100%" align="center" alt="Github Image" src="./Header.png" />
+<img width="100%" align="center" alt="Github Image" src="./anupamLab.gif" />
 
 <h1 align="center">
 Hi 👋, I'm Anupam Pal 
